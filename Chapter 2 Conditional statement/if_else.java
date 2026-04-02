@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Sample {
+public class if_else {
 
     public static void main(String args[]){
         
